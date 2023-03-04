@@ -1,0 +1,68 @@
+body {margin:0;
+ font-family: Arial, Helvetica, sans-serif;
+ background-color: #6096B4;
+}
+/*tabel*/
+th {
+  color: #000000; 
+  background-color: #0fe9e6; 
+  border-width: 1px;
+  border-style: solid; 
+  border-color: rgb(0, 0, 0); 
+  font-size: 9pt;    
+  text-align: center;
+}
+
+td {
+  color : red;
+  background-color: #000000; 
+  border-width: 1px;
+  border-style: solid; 
+  border-color: #0fe9e6; 
+  font-size: 9pt;
+  text-align: center;
+}
+
+/*navigasi bar*/
+.navbar {
+  overflow: hidden;
+  background-color: #20262E;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #000000;
+  color: rgb(255, 253, 253);
+}
+
+.main {
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px; 
+  text-align: center;
+}
+
+/*aktivitas*/
+
+.aktivitas {
+  margin-top: 5%;
+  font-family: sans-serif;
+  text-align: center;
+  color: rgb(249, 255, 255);
+  margin-left: 1%;
+}
+
+
+
